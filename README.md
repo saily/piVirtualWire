@@ -5,9 +5,9 @@ Python VirtualWire module for Raspberry Pi and 433MHz RF modules
 
 This code depends on **pigpio** library and can not be used without it.
 
-**Pigpio** library is available at [this site](http://abyz.co.uk/rpi/pigpio/)
+**Pigpio** library is available at [this site](http://abyz.me.uk/rpi/pigpio/)
 
-Follow [this](http://abyz.co.uk/rpi/pigpio/download.html) guide to install it on your platform.
+Follow [this](http://abyz.me.uk/rpi/pigpio/download.html) guide to install it on your platform.
 
 pigpio has to be running as a service. To start:
 `sudo /home/pi/PIGPIO/pigpiod`

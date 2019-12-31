@@ -5,9 +5,9 @@
 
 """
 Original code made by joan http://93.93.128.176/forums/viewtopic.php?t=84596&p=598683
-http://abyz.co.uk/rpi/pigpio/code/vw.zip
+http://abyz.me.uk/rpi/pigpio/code/vw.zip
 
-Requires http://abyz.co.uk/rpi/pigpio/
+Requires http://abyz.me.uk/rpi/pigpio/
 
 """
 import time, pigpio
